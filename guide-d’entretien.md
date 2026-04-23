@@ -1,6 +1,6 @@
 ﻿# Kit de Communication : Étude du Marché IT
-**Cible :** Entreprises Tech 
-**Auteurs :** Étudiants en 2ème année – Solicode
+**Cible :** Entreprises Tech <br>
+**Auteurs :** Étudiants en 2ème année – Solicode <br>
 
 ---
 
