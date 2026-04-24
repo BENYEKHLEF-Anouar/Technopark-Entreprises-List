@@ -1,70 +1,119 @@
-﻿# Kit de Communication : Étude du Marché IT
+# Kit de Communication : Étude du Marché IT
+
 **Cible :** Entreprises Tech <br>
-**Auteurs :** Étudiants en 2ème année – Solicode <br>
+**Auteurs :** Étudiants en 2ᵉ année – Solicode <br>
 
 ---
 
-## 1. Modèle d'Email de Demande d'Interview
+## 1. Modèle d’Email de Demande d’Interview
 
-**Objet :** Demande d’interview – Étudiants en 2ème année (Solicode) – Étude du marché tech
+**Objet :** Demande d’échange – Étudiants Solicode – Étude du marché IT
 
 **Madame/Monsieur [Nom du contact ou Responsable RH],**
 
-Actuellement étudiants en 2ème année au centre de formation digitale **Solicode**, nous menons, dans le cadre de notre fin de cycle, une étude approfondie sur les réalités du marché du travail IT et les attentes des entreprises locales.
+Nous sommes actuellement étudiants en 2ᵉ année au centre de formation digitale **Solicode**, en spécialisation développement web et mobile.
 
-Votre expertise au sein de **[Nom de l’entreprise]** nous intéresse particulièrement. Nous souhaiterions vous solliciter pour un court entretien (environ 15 à 20 minutes) afin d'échanger sur vos pratiques professionnelles, notamment :
+Dans le cadre de notre fin de cycle ainsi que d’un module de veille technologique, nous menons une étude approfondie sur les réalités du marché du travail IT et les attentes des entreprises locales.
 
-* **Votre stack technique** (langages, frameworks, outils DevOps).
-* **Vos méthodes de travail** (Agile/Scrum, gestion de projet).
-* **Vos conseils** pour les futurs jeunes développeurs intégrant le marché.
+Votre expertise au sein de **[Nom de l’entreprise]** retient particulièrement notre attention. À ce titre, nous souhaiterions vous proposer un court échange (15 à 20 minutes) afin d’aborder les points suivants :
 
-Nous sommes flexibles et pouvons nous adapter totalement à votre emploi du temps, que ce soit en présentiel dans vos locaux ou par visioconférence.
+* **Votre stack technique** (langages, frameworks, outils DevOps)
+* **Vos méthodes de travail** (Agile, Scrum, gestion de projet)
+* **Vos recommandations** pour les jeunes développeurs entrant sur le marché
 
-Dans l’attente de votre retour, nous vous prions d’agréer, Madame/Monsieur, l’expression de nos salutations distinguées.
+Cet échange peut se faire selon votre convenance : en présentiel, en visioconférence ou par téléphone.
 
-> **[Votre Prénom et Nom]** > Étudiant en Développement Web & Mobile  
-> **Centre Solicode** > `[votre.email@example.com]`  
-> `[+212 6XX XX XX XX]`  
-> `[linkedin.com/in/votre-profil]`  
+Nous restons entièrement flexibles quant à l’organisation et nous adapterons à votre emploi du temps.
+
+Dans l’attente de votre retour, nous vous remercions pour l’attention portée à notre demande.
+
+Veuillez agréer, Madame/Monsieur, l’expression de nos salutations distinguées.
+
+**[Votre Nom & Prénom]**
+Étudiant(e) en Développement Web & Mobile
+Centre Solicode
+[[votre.email@example.com](mailto:votre.email@example.com)]
+[+212 6XX XX XX XX]
+[linkedin.com/in/votre-profil]
 
 ---
 
-## 2. Script d'Appel Téléphonique (Relance)
-*À utiliser sans réponse après 3 ou 4 jours.*
+## 2. Script d’Appel Téléphonique (Relance)
 
-### L'approche
-"Bonjour, je m'appelle **[Votre Nom]**, je suis étudiant en 2ème année au centre de formation **Solicode**. Je me permets de vous contacter suite à un email envoyé le **[Date]** concernant une demande d’interview rapide dans le cadre de nos études sur le marché de l'emploi IT. Est-ce que Monsieur/Madame **[Nom du contact]** est disponible, ou auriez-vous un instant pour m'indiquer si une telle rencontre serait envisageable pour vous ?"
+*À utiliser après 3 à 4 jours sans réponse.*
 
-### Si le contact est en ligne
-"Nous cherchons simplement à comprendre comment une entreprise comme la vôtre structure ses projets (notamment sur les technologies **Java ou C#**) et ce que vous attendez d'un jeune diplômé aujourd'hui. L'échange durerait une quinzaine de minutes."
+### L’approche
 
-* **Réponse positive :** "Parfait, je vous renvoie une invitation calendrier. Quelle heure vous conviendrait le mieux ?"
-* **Réponse négative :** "Je comprends parfaitement. Auriez-vous éventuellement un collègue ou un lead technique à qui je pourrais m'adresser de votre part ?"
+> « Bonjour, je m’appelle **[Votre Nom]**, étudiant en 2ᵉ année au centre de formation digitale **Solicode**.
+>
+> Je me permets de vous contacter suite à un email envoyé le **[date]**, concernant une demande d’échange dans le cadre de notre étude sur le marché de l’emploi IT.
+>
+> Est-ce que Monsieur/Madame **[Nom du contact]** serait disponible, ou pourriez-vous m’orienter vers la personne concernée, s’il vous plaît ? »
+
+---
+
+### Si le contact demande plus d’informations
+
+> « L’objectif est de mieux comprendre comment votre entreprise organise ses projets, les technologies utilisées (notamment autour de **Java, C# ou autres stacks**) ainsi que vos attentes vis-à-vis des profils juniors.
+>
+> L’échange est très court, environ **15 à 20 minutes**, et entièrement adaptable à vos disponibilités. »
+
+---
+
+### Gestion des réponses
+
+**Réponse positive :**
+
+> « Parfait, merci beaucoup. Je vous propose de vous envoyer une invitation calendrier. Quel créneau vous conviendrait le mieux ? »
+
+**Réponse négative :**
+
+> « Je comprends tout à fait, merci pour votre retour.
+>
+> Pourriez-vous éventuellement me rediriger vers un développeur ou un **lead technique** qui serait disponible pour ce type d’échange ? »
+
+**Indisponible / à rappeler :**
+
+> « Merci beaucoup. À quel moment serait-il plus approprié de vous rappeler ? »
 
 ---
 
 ## 3. Guide d’Entretien (Support de Discussion)
 
 ### I. Introduction (2 min)
-* Remerciements pour le temps accordé.
-* **Présentation :** Étudiants en fin de cycle à Solicode, focus sur le développement Full Stack.
-* **Objectif :** Faire le pont entre notre formation théorique et la réalité du terrain.
 
-### II. Axe 1 : Stack Technique (5-7 min)
-* Quelles sont les technologies prédominantes dans vos projets actuels ? 
-* Utilisez-vous des architectures spécifiques (Microservices, Monolithe modulaires) ?
-* Quels outils de versioning et de CI/CD (GitLab, Jenkins, Docker...) sont indispensables selon vous ?
+* Remerciements pour le temps accordé
+* Présentation rapide : étudiants en fin de cycle à Solicode (orientation **Full Stack**)
+* Objectif : confronter notre formation aux pratiques réelles du terrain
+
+---
+
+### II. Axe 1 : Stack Technique (5–7 min)
+
+* Quelles sont les technologies principales utilisées dans vos projets actuels ?
+* Travaillez-vous avec des architectures spécifiques (**microservices, monolithe modulaire, etc.**) ?
+* Quels outils sont essentiels dans votre workflow (Git, CI/CD, Docker, etc.) ?
+
+---
 
 ### III. Axe 2 : Méthodologies & Organisation (5 min)
-* Travaillez-vous en mode **Agile** (Scrum/Kanban) ? Si oui, comment se déroule un sprint type ?
-* Quelle est la place des tests automatisés (Unitaires, Intégration) dans votre flux de production ?
-* Comment collaborent les équipes Frontend et Backend au quotidien ?
 
-### IV. Axe 3 : Conseils & Recrutement (3 min)
-* Quelles sont les **soft skills** (savoir-être) que vous privilégiez chez un junior ?
-* Quel conseil donneriez-vous pour réussir un premier entretien technique ?
-* Selon vous, quelle compétence technique manque souvent aux jeunes diplômés ?
+* Travaillez-vous en méthodologie **Agile** (Scrum, Kanban) ? Comment se déroule un sprint type ?
+* Quelle est la place des tests automatisés (unitaires, intégration) ?
+* Comment s’organise la collaboration entre les équipes frontend et backend ?
+
+---
+
+### IV. Axe 3 : Recrutement & Conseils (3–5 min)
+
+* Quelles **soft skills** recherchez-vous en priorité chez un développeur junior ?
+* Quels conseils donneriez-vous pour réussir un premier entretien technique ?
+* Quelles sont les lacunes les plus fréquentes chez les jeunes diplômés ?
+
+---
 
 ### V. Conclusion
-* Remerciements finaux.
-* Demande d'ajout sur LinkedIn pour le réseau professionnel.
+
+* Remerciements
+* Demande de connexion sur LinkedIn
+* Possibilité de rester en contact pour des opportunités futures
