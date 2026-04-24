@@ -2,20 +2,31 @@ Objet : Demande d’interview – Étudiants en 2ème année (Solicode) – Étu
 
 Madame/Monsieur [Nom du contact ou Responsable RH],
 
-Actuellement étudiants en 2ème année au centre de formation digitale Solicode, nous menons dans le cadre de notre fin de cycle une étude approfondie sur les réalités du marché du travail IT et les attentes des entreprises locales.
+Nous sommes un groupe d’étudiants en 2ᵉ année au centre de formation digitale Solicode à Tanger, actuellement en spécialisation en développement web et mobile.
 
-Votre expertise au sein de [Nom de l’entreprise] nous intéresse particulièrement. Nous souhaiterions vous solliciter pour un court entretien (environ 15 à 20 minutes) afin d'échanger sur vos pratiques professionnelles, notamment :
+Dans le cadre de notre fin de cycle ainsi que d’un module de veille technologique, nous menons une étude approfondie sur les réalités du marché du travail IT, les environnements techniques des entreprises locales et leurs méthodes de travail.
 
-Votre stack technique (langages, frameworks, outils DevOps).
+Votre expertise au sein de [Nom de l’entreprise] nous intéresse particulièrement. À ce titre, nous souhaiterions solliciter un échange avec votre équipe, sous l’un des formats suivants, selon vos disponibilités :
 
-Vos méthodes de travail (Agile/Scrum, gestion de projet).
+* Un entretien court (15 à 20 minutes)
+* Une visite au sein de votre entreprise
+* Une intervention ou présentation dans notre établissement 
 
-Vos conseils pour les futurs jeunes développeurs intégrant le marché.
+Cette rencontre nous permettrait de :
 
-Nous sommes flexibles et pouvons nous adapter totalement à votre emploi du temps, que ce soit en présentiel dans vos locaux ou par visioconférence.
+* Découvrir votre entreprise et vos activités
+* Comprendre votre stack technique (langages, frameworks, outils DevOps)
+* Explorer vos méthodes de travail (Agile, Scrum, gestion de projet, etc.)
+* Bénéficier de vos conseils pour mieux préparer notre intégration dans le marché du travail
 
-Dans l’attente de votre retour, nous vous prions d’agréer, Madame/Monsieur, l’expression de nos salutations distinguées.
+Nous sommes entièrement flexibles concernant l’organisation (date, durée, format) et nous adapterons à votre agenda.
 
-[Votre Prénom et Nom]
-Étudiant en Développement Web & Mobile
-Centre Solicode
+Dans l’attente de votre retour, nous vous remercions sincèrement pour l’attention portée à notre demande et espérons avoir l’opportunité d’échanger prochainement avec vous.
+
+Veuillez agréer, Madame, Monsieur, l’expression de nos salutations distinguées.
+
+[Votre Nom & Prénom]
+Étudiant(e) en Développement Web & Mobile
+Centre Solicode – Tanger
+[Téléphone]
+[Email]
