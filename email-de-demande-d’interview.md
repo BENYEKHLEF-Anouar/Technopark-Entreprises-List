@@ -6,7 +6,7 @@ Actuellement étudiants en 2ème année au centre de formation digitale Solicode
 
 Votre expertise au sein de [Nom de l’entreprise] nous intéresse particulièrement. Nous souhaiterions vous solliciter pour un court entretien (environ 15 à 20 minutes) afin d'échanger sur vos pratiques professionnelles, notamment :
 
-Votre stack technique (languages, frameworks, outils DevOps).
+Votre stack technique (langages, frameworks, outils DevOps).
 
 Vos méthodes de travail (Agile/Scrum, gestion de projet).
 
